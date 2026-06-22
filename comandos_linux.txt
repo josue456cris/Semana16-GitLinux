@@ -1,11 +1,11 @@
-1. pwd
-2. ls
-3. ls -la
-4. mkdir
-5. cd
-6. touch
-7. nano
-8. git init
-9. git status
-10. git log
+1. pwd       -> Muestra la ruta actual.
+2. ls        -> Lista archivos y directorios.
+3. ls -la    -> Lista archivos detalladamente.
+4. mkdir     -> Crea directorios.
+5. cd        -> Cambia de directorio.
+6. touch     -> Crea archivos vacíos.
+7. nano      -> Editor de texto.
+8. git init  -> Inicializa Git.
+9. git status-> Estado del repositorio.
+10. git log  -> Historial de commits.
 
