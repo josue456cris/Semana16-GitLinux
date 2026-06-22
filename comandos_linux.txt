@@ -1,0 +1,11 @@
+1. pwd
+2. ls
+3. ls -la
+4. mkdir
+5. cd
+6. touch
+7. nano
+8. git init
+9. git status
+10. git log
+
