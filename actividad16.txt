@@ -1,2 +1,8 @@
 Práctica Semana 16
 Uso de Linux y GitHub
+Se realizaron actividades relacionadas con:
+- Creación de directorios
+- Control de versiones
+- Manejo de ramas
+- Trabajo colaborativo
+- Publicación en GitHub
